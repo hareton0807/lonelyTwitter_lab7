@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/caochenlin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/caochenlin/Desktop/lonelyTwitter-lab6finish/app/build/intermediates/pre-dexed/debug/gson-2.7_de4220f6d6ab882ca308f93f0fdd34a90d0c4fd9.jar" />
+    </item>
+
+</items>

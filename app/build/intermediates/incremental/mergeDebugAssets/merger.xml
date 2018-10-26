@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/caochenlin/.android/build-cache/64e9f12774475cf03ba5a4222eec0b39b64ca619/output/assets"/></dataSet><dataSet config="main"><source path="/Users/caochenlin/Desktop/lonelyTwitter-lab6finish/app/src/main/assets"/><source path="/Users/caochenlin/Desktop/lonelyTwitter-lab6finish/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/caochenlin/Desktop/lonelyTwitter-lab6finish/app/src/debug/assets"/></dataSet></merger>
